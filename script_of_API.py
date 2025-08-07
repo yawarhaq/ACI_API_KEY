@@ -5,7 +5,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # APIC details
-apic_url = "https://172.16.100.75"
+apic_url = "your_url"
 username = "your_username"
 password = "your_password"
 
